@@ -5,7 +5,7 @@ A modular Bash framework for investigating **web-cache misconfiguration**,
 built for **authorized** bug-bounty programs, penetration tests, and labs.
 
 > ⚠️ **Authorization required.** Only run this against targets you are
-> explicitly authorized to test CacheHunter avoids
+> explicitly authorized to test, CacheHunter avoids
 > destructive payloads, credential attacks, and DoS-style traffic by
 > design, but authorization is still on you.
 
